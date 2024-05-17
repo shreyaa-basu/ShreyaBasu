@@ -2,7 +2,7 @@
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=5657F0&lines=Passionate+Machine+Learning+Engineer+%3A)" /> </h3>
 
-<img align="center" alt="coding" height="400" width="660" src="https://images.app.goo.gl/VLFHd238qg6dAk3v7">
+<img align="center" alt="coding" height="400" width="660" src="https://github.com/shreyaa-basu/shreyaa-basu/blob/main/Shreya.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shreyaa-basu&label=Profile%20views&color=blueviolet&style=flat-square" alt="shreyaa-basu" />
